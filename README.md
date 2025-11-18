@@ -1,6 +1,6 @@
-# AllM-Assistant
+# AllM Assistant
 
-**AllM-Assistant** is a lightweight instruction-tuned LLM focused on fitness and lifestyle guidance.
+**AllM Assistant** is a lightweight instruction-tuned LLM focused on fitness and lifestyle guidance.
 This repository contains training scripts, inference wrappers, a Gradio demo for Hugging Face Spaces,
 and a sample instruction-response dataset to fine-tune a causal LM (GPT-2 by default).
 
